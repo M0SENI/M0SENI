@@ -52,5 +52,8 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M0SENI.M0SENI&"  />
 </div>
+<div align=center height=200>
+  <img src="https://github.com/M0SENI/M0SENI/blob/main/animation.gif"/>
+</div>
 
 ###
